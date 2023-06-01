@@ -1,8 +1,3 @@
-aws:
-- account_id: '596478825882'
-  regions:
-  - us-west-2
-  type: account
 github_branch_protection:
   organization:
     amount_of_required_reviews: 1
